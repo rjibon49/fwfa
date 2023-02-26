@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Akram A. Tadlaoui",
+      "post": "Founder",
+      "position": "CEO of FWFA",
+      "details": "Akram A. Tadlaoui is the Founder and Chief Executive Officer of FWFA. Akram has been working in the financial services field since 2014. Akram was awarded a bachelor’s in finance and accounting from California State University, San Bernardino where he led the Student Managed Investment Fund. He furthered his financial education by completing the Certified Investment Management Analyst program offered by Yale. Akram provides financial advice to clients as part of his duties as partner at Alpha Wealth Management, LLC a Registered Investment Adviser.",
+      "images":"https://i.ibb.co/xJ6R7Vt/akram.png",
+      "linkedin": "https://www.linkedin.com/in/akram-a-tadlaoui-b2278ba8/"
+    },
+    {
+      "id": 2,
+      "name": "Justin Dale Young",
+      "post": "Co-Founder",
+      "position": "CFO of FWFA",
+      "details": "Justin Dale Young, CFP® is a Co-Founder and Chief Financial Officer for FWFA. Justin has been working in the financial services field since 2014. Justin was awarded a bachelor’s in finance and accounting from California State University, San Bernardino where he led the Student Management Investment Fund. Justin is a CERTIFIED FINANCIAL PLANNER™ professional and provides clients comprehensive financial advice as part of his duties as partner at Alpha Wealth Management, LLC a Registered Investment Adviser.",
+      "images":"https://i.ibb.co/bBhfMcb/justin.png",
+      "linkedin": "https://www.linkedin.com/in/justindaleyoung2/"
+    },
+    {
+      "id": 3,
+      "name": "Thomas Young",
+      "post": "Co-Founder",
+      "position": "VP of Legal Services of FWFA",
+      "details": "Thomas Young is a Co-Founder and VP of Legal Services. Thomas is licensed to practice law in California and Arizona. He has vast experience in Consumer Contracts, Creditor Law, Estate Planning, and Taxation. He provides legal advice to clients as part of his duties as Associate Attorney for Gurstel Law Firm, P.C",
+      "images":"https://i.ibb.co/bdqxxR2/thomas.png",
+      "linkedin": "https://www.linkedin.com/in/thomas-young-b7473813a/"
+    },
+    {
+      "id": 4,
+      "name": "Anthony Nguyen",
+      "post": "Founder",
+      "position": "COO of FWFA",
+      "details": "Dung 'Anthony' Nguyen is a Co-Founder and Chief Operations Officer of FWFA. Anthony was awarded a bachelor’s in accounting from California State University, San Bernardino. He is furthering his education and professional acumen by pursuing both a Masters Degree of Human Resource Management, and the Certified Public Accountant accreditation. Anthony worked for the IRS and provide outstanding tax services. He provides non-profit management, budgeting and the lead accountant at Habitat for Humanity of Orange County.  On his spare time, he loves to travel with his wife and son.",
+      "images":"https://i.ibb.co/YdV0JLB/anthony.jpg",
+      "linkedin": "https://www.linkedin.com/in/antun17/"
+    }
+  ]

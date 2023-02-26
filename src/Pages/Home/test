@@ -1,0 +1,38 @@
+<div class="swiper topSwiper">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+            <img style="border-radius: 5px" src="https://triple-slider.uiinitiative.com/images/justice-league.jpg"/>
+        </div>
+        <div class="swiper-slide">
+            <img style="border-radius: 5px" src="https://triple-slider.uiinitiative.com/images/guardians-of-the-galaxy.jpg"/>
+        </div>
+        <div class="swiper-slide">
+            <img style="border-radius: 5px" src="https://triple-slider.uiinitiative.com/images/spider-man.jpg"/>
+        </div>
+        <div class="swiper-slide">
+            <img style="border-radius: 5px" src="https://triple-slider.uiinitiative.com/images/suicide-squad.jpg"/>
+        </div>
+        <div class="swiper-slide">
+            <img style="border-radius: 5px" src="https://triple-slider.uiinitiative.com/images/thor-ragnarok.jpg"/>
+        </div>
+      </div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+    <script>
+      var swiper = new Swiper(".topSwiper", {
+        slidesPerView: 3,
+        spaceBetween: 30,
+        loop: true,
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+          
+        },
+          navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>

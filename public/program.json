@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "1. Foundation for Financial Wellness: ",
+      "details": "It is a 1-year program that teaches on many topics to engage the clients in getting to financial wellness through education.",
+      "images":"https://i.ibb.co/ZV2dsrT/program1.png"
+    },
+    {
+      "id": 2,
+      "title": "2. Financial Literacy Coaching & Leadership Training: ",
+      "details": "This program assists the client in better management of their finances and get them each step of the way through the current situation.",
+      "images":"https://i.ibb.co/4TBYW0h/program2.png"
+    },
+    {
+      "id": 3,
+      "title": "3. Financial Literacy for Veterans: ",
+      "details": "Helping Veterans achieve financial literacy through our specialized Veterans program.",
+      "images":"https://i.ibb.co/hfYPbSw/USAmilitary.jpg"
+    },
+    {
+      "id": 4,
+      "title": "4. Financial Literacy for High School Students: ",
+      "details": "Helping High School Senior, 12th grade, learn financial literacy and coaching them to prepare for the real life. Helping them during college time period from budgeting, balance the book, credit, credit card, etc.",
+      "images":"https://i.ibb.co/b29xL2b/program5.png"
+    },
+    {
+      "id": 5,
+      "title": "5. Financial Literacy for Seniors: ",
+      "details": "Helping senior/elders during their time of retirement to maintained a well balance financial wellness.",
+      "images":"https://i.ibb.co/3Bsp4fm/program4.png"
+    },
+    {
+      "id": 6,
+      "title": "6. Financial Literacy for College Students: ",
+      "details": "Helping college students with financial literacy and college during their college years. The topics will include student loan, credit card, credit, work, retirement, etc.",
+      "images":"https://i.ibb.co/gytTRjN/program3.png"
+    },
+    {
+      "id": 7,
+      "title": "7. Leadership Training: ",
+      "details": "Upon graduation, the student who has gone through Financial Awareness, Financial Literacy, and Financial Coaching will have charted a map to success with our expert coaches. Graduates will understand their financial situation, learn best practices and the root cause of the problem as well as clear solutions through coaching. Furthermore, we ask each graduate to stay onboard to mentor our future students to share their experiences and continue to have our coachwork with these mentors to ensure they are reminded of financial wellness. Through this mentorship process, we hope they will take on the FWFA's Leadership Training to become a coach so they can give back to the community by teaching others to financial wellness.",
+      "images":"https://i.ibb.co/1dnbpM6/program6.png" 
+    },
+    {
+      "id": 8,
+      "title": "8. Mental Health  ",
+      "details": "A holistic approach to financial education and financial coaching is our mental health program.  We are here to support you to achieve the best while considerate of the stress and burden of a financial crisis.  With our experts and collaborate partner organizations - we will provide counseling, psychotherapy, and other wellness health programs (yoga, mindfulness, medication, etc.) ",
+      "images": "https://i.ibb.co/H28x5vS/Mental-Health.jpg"
+    }
+]
